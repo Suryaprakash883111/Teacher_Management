@@ -50,7 +50,7 @@ Before running this project, make sure you have the following installed:
    ```
 
 4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
+   Navigate to [https://localhost:3000](https://localhost:3000) to see the application.
 
 ## 📁 Project Structure
 
