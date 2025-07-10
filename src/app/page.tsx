@@ -11,7 +11,7 @@ export default function Home() {
     router.push('/todo'); // Navigate to the todo list page
   };
 
-  return (
+  return ( 
     <Layout>
       <TeacherProfile 
         teacher={mockTeacher} 
